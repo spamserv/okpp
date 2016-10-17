@@ -18,11 +18,13 @@
 	/* Primjer pokretanja bat skripte za početak rada swaga 
 		- ovo bi se moglo prebacit u neku drugu skriptu i onda pozivat sa ajax
 		*/
+		/*
 		$arg1 = "{'backup_type':'F'}";
 		$arg2 = "{'backup_start':'T', 'time_interval': 10}";
 
 		$cmd = "start {$engine_path} \"{$arg1}\" \"{$arg2}\"";
 		exec($cmd);
+		*/
 	/**/
 
 ?>
@@ -30,10 +32,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Najbolja stranica</title>
+	<title>ASSKBP</title>
+	<link rel="shortcut icon" href="favicon.ico">
 </head>
 <body>
-Euphoria DEVS v3.0
+Euphoria DEVS v3.0 - GREAT COOL
 <br><br>Popis tablica<br>
 <select multiple rows="5">
 	<?php 
