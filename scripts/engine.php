@@ -18,6 +18,15 @@
 		println(exec($cmd));
 	}
 
+	println("                                 
+			    _    ____ ____  _  ______  ____  
+			   / \  / ___/ ___|| |/ / __ )|  _ \ 	Kristijan Birtic
+			  / _ \ \___ \___ \| ' /|  _ \| |_) |	Kristijan Simenic
+			 / ___ \ ___) |__) | . \| |_) |  __/ 	Josip Turjak
+			/_/   \_\____/____/|_|\_\____/|_|	Josip Vojak
+
+			");
+
 	$arg1 = $argv[1];
 	$arg2 = $argv[2];
 
